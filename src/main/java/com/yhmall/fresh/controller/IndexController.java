@@ -32,6 +32,9 @@ public class IndexController extends BaseController {
 	public void test (String a) {
 	/*	UserModel user = userService.getUser();*/
 		System.out.println(userService);
+		System.out.println(111);
+		System.out.println(222);
+		
 		/*System.out.println(user.getName());*/
 	}
 }

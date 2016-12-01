@@ -30,8 +30,8 @@ public class IndexController extends BaseController {
 	UserService  userService;
 	@RequestMapping("/test")
 	public void test (String a) {
-		/*UserModel user = userService.getUser();
+	/*	UserModel user = userService.getUser();*/
 		System.out.println(userService);
-		System.out.println(user.getName());*/
+		/*System.out.println(user.getName());*/
 	}
 }

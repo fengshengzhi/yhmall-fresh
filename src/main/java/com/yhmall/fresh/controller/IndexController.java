@@ -15,7 +15,6 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
 import com.yhmall.fresh.controller.base.BaseController;
-import com.yhmall.fresh.model.UserModel;
 import com.yhmall.fresh.service.UserService;
 
 /**
@@ -34,6 +33,7 @@ public class IndexController extends BaseController {
 		System.out.println(userService);
 		System.out.println(111);
 		System.out.println(222);
+		System.out.println(333);
 		
 		/*System.out.println(user.getName());*/
 	}

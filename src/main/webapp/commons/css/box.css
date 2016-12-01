@@ -1,0 +1,38 @@
+.gray_body{background-color: #f0f0f0;}
+/*弹出层*/
+.alert_id{position:absolute;top:50%;left:50%;z-index: 99;width: 390px;background-color: #fff;margin:-100px 9px -4px -211px;}
+.alert_id p{margin: 20px 0 0 15px;}
+.alert_id p em{width: 66px;display: inline-block;vertical-align: middle;text-align: right;}
+.alert_id p select{width: 284px;height: 32px;}
+.alert_id p input[type = 'text']{width: 280px;height: 30px;}
+.alert_id p a{padding: 5px 30px 5px 30px;margin-left: 35px;margin-bottom: 30px;}
+.alert_id p a.sureBtn{margin-left: 1px;}
+.redBtn{background-color: #ea2e49;color: #fff;text-align: center;font-size: 16px; border-radius: 5px;padding: 4px 15px 4px 15px;display: inline-block;vertical-align: middle;}
+
+
+.layui-layer-btn{
+	position:relative !important;
+}
+.layui-layer-btn0{
+	border-color:#E9E7E7 !important;
+	background:#ea2e49 !important;
+	padding:0 19px !important;
+	position:absolute !important;
+    margin-left:-282px !important;
+    margin-top: -30px !important;
+    padding: 0 24px !important;
+}
+.layui-layer-btn1{
+	border-color:#E9E7E7 !important;
+	color:#fff !important;
+	background:#ea2e49 !important;
+	padding:0 19px !important;
+	position:absolute !important;
+    margin-left:-183px !important;
+    margin-top: -30px !important;
+    padding: 0 24px !important;
+}
+.layui-layer-content{
+	line-height: 79px !important;
+	text-align:center !important;
+}

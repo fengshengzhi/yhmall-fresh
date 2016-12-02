@@ -40,5 +40,6 @@ public class IndexController extends BaseController {
 		
 		System.out.println("测试修改");
 		System.out.println("测试修改22");
+		System.out.println("测试修改33");
 	}
 }

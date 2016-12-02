@@ -36,5 +36,8 @@ public class IndexController extends BaseController {
 		System.out.println(333);
 		
 		/*System.out.println(user.getName());*/
+		
+		
+		System.out.println("测试修改");
 	}
 }
